@@ -3,9 +3,9 @@
   "source": "http://www.progsounds.com/downloads/progsounds-roland-tr-505-samples-pack",
   "license": "Public Domain",
   "name": "TR-505",
-  "url": "file:///android_asset/MIDISEQUENCER/sampled-master/DM/TR-505/",
+  "url": "https://bltrip.github.io/insts/DM/TR-505/",
   "type": "Drum machine",
-  "samples": "file:///android_asset/MIDISEQUENCER/sampled-master/DM/TR-505/samples/",
+  "samples": "https://bltrip.github.io/insts/DM/TR-505/samples/",
   "files": [
     "viol1.mp3",
     "viol2.mp3",
