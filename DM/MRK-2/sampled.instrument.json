@@ -8,15 +8,5 @@
   "type": "Drum machine",
   "samples": "https://bltrip.github.io/insts/DM/MRK-2/samples/",
   "files": [
-    "b17.ogg",
-    "b18.ogg",
-    "b19.ogg",
-    "b20.ogg",
-    "b21.ogg",
-    "b22.ogg",
-    "b23.ogg",
-    "b24.ogg",
-    "b25.ogg",
-    "screeam1.wav"
-  ]
+    "flute13.mp3"
 }
