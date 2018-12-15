@@ -1,25 +1,12 @@
 {
   "name": "Pearl Master Studio",
   "description": "Pearl Master Studio Pack 1 by enoe",
-  "url": "file:///android_asset/MIDISEQUENCER/sampled-master/DRUMS/pearl-master-studio/",
+  "url": "https://bltrip.github.io/insts/DRUMS/pearl-master-studio/",
   "license": "Creative Commons Attribution 3.0",
   "type": "Acoustic Drum",
-  "samples": "file:///android_asset/MIDISEQUENCER/sampled-master/DRUMS/pearl-master-studio/samples/",
+  "samples": "https://bltrip.github.io/insts/DRUMS/pearl-master-studio/samples/",
   "files": [
-    "B1.mp3",
-    "B2.mp3",
-    "B3.mp3",
-    "B4.mp3",
-    "B5.mp3",
-    "B6.mp3",
-    "B7.mp3",
-    "Bb0.mp3",
-    "Bb1.mp3",
-    "Bb2.mp3",
-    "Bb3.mp3",
-    "Bb4.mp3",
-    "Bb5.mp3",
-    "Bb6.mp3",
-    "Bb7.mp3"
+
+    
   ]
 }
