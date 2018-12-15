@@ -7,22 +7,6 @@
   "type": "Drum machine",
   "samples": "https://bltrip.github.io/insts/DM/CR-78/samples/",
   "files": [
-    "b00.ogg",
-    "b1.ogg",
-    "b2.ogg",
-    "b3.ogg",
-    "b4.ogg",
-    "b5.ogg",
-    "b6.ogg",
-    "b7.ogg",
-    "b8.ogg",
-    "b9.ogg",
-    "b10.ogg",
-    "b11.ogg",
-    "b12.ogg",
-    "b13.ogg",
-    "b14.ogg",
-    "b15.ogg",
-    "b16.ogg"
+   
   ]
 }
