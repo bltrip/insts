@@ -1,0 +1,26 @@
+{
+  "name": "TR-909 SP",
+  "description": "A 909 kit sampled through an original E-mu SP-1200 sampler, then re-sampled into Maschine ",
+  "source": "http://www.flstudiomusic.com/2016/09/download-free-909-kits-stems-f9-audio.html",
+  "url": "file:///android_asset/MIDISEQUENCER/sampled-master/DM/TR-909/SP/",
+  "type": "Drum machine",
+  "samples": "file:///android_asset/MIDISEQUENCER/sampled-master/DM/TR-909/SP/samples/",
+  "files": [
+    "A0.mp3",
+    "A1.mp3",
+    "A2.mp3",
+    "A3.mp3",
+    "A4.mp3",
+    "A5.mp3",
+    "A6.mp3",
+    "A7.mp3",
+    "Ab1.mp3",
+    "Ab2.mp3",
+    "Ab3.mp3",
+    "Ab4.mp3",
+    "Ab5.mp3",
+    "Ab6.mp3",
+    "Ab7.mp3",
+    "B0.mp3"
+  ]
+}

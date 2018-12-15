@@ -1,0 +1,24 @@
+{
+  "name": "TR-909 Detroit",
+  "description": "Roland TR-909 recorder via API and Neve",
+  "source": "http://www.flstudiomusic.com/2016/09/download-free-909-kits-stems-f9-audio.html",
+  "url": "file:///android_asset/MIDISEQUENCER/sampled-master/DM/TR-909/Detroit/",
+  "type": "Drum machine",
+  "samples": "file:///android_asset/MIDISEQUENCER/sampled-master/DM/TR-909/Detroit/samples/",
+  "files": [
+    "flute13.mp3",
+    "flute14.mp3",
+    "flute15.mp3",
+    "flute16.mp3",
+    "flute17.mp3",
+    "flute18.mp3",
+    "flute19.mp3",
+    "flute20.mp3",
+    "flute21.mp3",
+    "flute22.mp3",
+    "flute23.mp3",
+    "flute24.mp3",
+    "flute25.mp3",
+    "hits4.wav"
+  ]
+}

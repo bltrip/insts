@@ -1,0 +1,22 @@
+{
+  "description": "Maestro Rhythm King MRK-2",
+  "image": "http://www.submodern.com/slowburn/wp-content/uploads/2007/09/maestro480.jpg",
+  "source": "http://www.submodern.com/slowburn/?p=736",
+  "license": "Public Domain",
+  "name": "MRK-2",
+  "url": "file:///android_asset/MIDISEQUENCER/sampled-master/DM/MRK-2/",
+  "type": "Drum machine",
+  "samples": "file:///android_asset/MIDISEQUENCER/sampled-master/DM/MRK-2/samples/",
+  "files": [
+    "b17.ogg",
+    "b18.ogg",
+    "b19.ogg",
+    "b20.ogg",
+    "b21.ogg",
+    "b22.ogg",
+    "b23.ogg",
+    "b24.ogg",
+    "b25.ogg",
+    "screeam1.wav"
+  ]
+}
