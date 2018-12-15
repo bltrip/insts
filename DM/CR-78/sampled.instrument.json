@@ -3,9 +3,9 @@
   "source": "http://www.boxedear.com/free.html",
   "license": "Public Domain",
   "name": "CR-78",
-  "url": "file:///android_asset/MIDISEQUENCER/sampled-master/DM/CR-78/",
+  "url": "https://bltrip.github.io/insts/DM/CR-78/",
   "type": "Drum machine",
-  "samples": "file:///android_asset/MIDISEQUENCER/sampled-master/DM/CR-78/samples/",
+  "samples": "https://bltrip.github.io/insts/DM/CR-78/samples/",
   "files": [
     "b00.ogg",
     "b1.ogg",
