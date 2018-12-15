@@ -7,6 +7,18 @@
   "type": "Drum machine",
   "samples": "file:///android_asset/MIDISEQUENCER/sampled-master/DM/TR-505/samples/",
   "files": [
-    
+    "viol1.mp3",
+    "viol2.mp3",
+    "viol3.mp3",
+    "viol4.mp3",
+    "viol5.mp3",
+    "viol6.mp3",
+    "viol7.mp3",
+    "viol8.mp3",
+    "viol9.mp3",
+    "viol10.mp3",
+    "viol11.mp3",
+    "viol12.mp3",
+    "viol13.mp3"
   ]
 }
